@@ -25,6 +25,11 @@ img {
   border: 5px solid black;
 }
 
+/* paragraph */
+p {
+  font-size: 18px;
+}
+
 /* unordered lists */
 ul {
   display: inline-block;
