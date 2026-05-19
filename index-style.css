@@ -20,6 +20,11 @@ h2 {
   font-style: italic;
 }
 
+/* image */
+img {
+  border: 5px solid black;
+}
+
 /* unordered lists */
 ul {
   display: inline-block;
