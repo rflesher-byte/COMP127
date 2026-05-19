@@ -14,7 +14,7 @@ h1 {
 
 /* section titles or heading2 */
 h2 {
-  marrgin-top: 45px;
+  margin-top: 45px;
   color: darkred;
   font-family: Verdana;
   font-style: italic;
@@ -33,4 +33,5 @@ p {
 /* unordered lists */
 ul {
   display: inline-block;
+  text-align: left;
 }
