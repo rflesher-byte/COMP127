@@ -1,9 +1,11 @@
+/*body changes*/
 body {
   background-color: lightgrey;
   text-align: center;
   margin: 20px;
 }
 
+/*unordered lists*/
 ul {
   display: inline-block;
 }
