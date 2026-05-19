@@ -16,6 +16,8 @@ h1 {
 h2 {
   marrgin-top: 45px;
   color: darkred;
+  font-family: Verdana;
+  font-style: italic;
 }
 
 /* unordered lists */
