@@ -7,7 +7,8 @@ body {
 
 /*my name or heading*/
 h1 {
-  
+  color: purple;
+  font-family: Georgia;
 }
 
 /*unordered lists*/
