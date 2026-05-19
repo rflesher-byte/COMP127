@@ -1,17 +1,23 @@
-/*body changes*/
+/* body changes */
 body {
   background-color: lightgrey;
   text-align: center;
   margin: 20px;
 }
 
-/*my name or heading*/
+/* my name or heading1 */
 h1 {
   color: purple;
   font-family: Georgia;
+  font-size: 36px;
 }
 
-/*unordered lists*/
+/* section titles or heading2 */
+h2 {
+  
+}
+
+/* unordered lists */
 ul {
   display: inline-block;
 }
