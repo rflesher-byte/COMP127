@@ -5,6 +5,11 @@ body {
   margin: 20px;
 }
 
+/*my name or heading*/
+h1 {
+  
+}
+
 /*unordered lists*/
 ul {
   display: inline-block;
