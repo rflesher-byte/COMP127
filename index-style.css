@@ -3,6 +3,7 @@ body {
   background-color: lightgrey;
   text-align: center;
   margin: 20px;
+  font-family: Arial;
 }
 
 /* my name or heading1 */
@@ -23,6 +24,7 @@ h2 {
 /* image */
 img {
   border: 5px solid black;
+  padding: 5px;
 }
 
 /* paragraph */
