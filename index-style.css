@@ -14,7 +14,8 @@ h1 {
 
 /* section titles or heading2 */
 h2 {
-  
+  marrgin-top: 45px;
+  color: darkred;
 }
 
 /* unordered lists */
