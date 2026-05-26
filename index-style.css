@@ -1,6 +1,6 @@
 /* body changes */
 body {
-  background-image: url(background_image.jpg");
+  background-image: url("background_image.jpg");
   background-size: cover;
   background-attachment: fixed;
   
