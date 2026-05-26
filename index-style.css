@@ -3,15 +3,17 @@ body {
   background-image: url(background_image.jpg");
   background-size: cover;
   background-attachment: fixed;
+  
   text-align: center;
   margin: 20px;
-  font-family: Arial;
+  
+  font-family: Arial, sans-serif;
 }
 
 /* my name or heading1 */
 h1 {
   color: purple;
-  font-family: Georgia;
+  font-family: Georgia, serif;
   font-size: 36px;
 }
 
@@ -19,7 +21,7 @@ h1 {
 h2 {
   margin-top: 45px;
   color: darkred;
-  font-family: Verdana;
+  font-family: Verdana, sans-serif;
   font-style: italic;
 }
 
