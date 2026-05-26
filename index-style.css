@@ -18,10 +18,13 @@ body {
   border: 3px solid black;
 }
 
-/* HEADER */
-
+/* Header */
 .header {
-  
+  text-align: center;
+  border: 2px purple dashed;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: lavender;
 }
 
 /* my name or heading1 */
