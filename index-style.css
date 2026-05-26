@@ -3,18 +3,19 @@ body {
   background-image: url("background_image.jpg");
   background-size: cover;
   background-attachment: fixed;
-  
   margin-left: 10%;
   margin-right: 10%;
-  
   font-family: Arial, sans-serif;
-
   background-color: grey;
 }
 
 /* Container */
 #container {
-  
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 3px solid black;
 }
 
 /* my name or heading1 */
