@@ -4,11 +4,17 @@ body {
   background-size: cover;
   background-attachment: fixed;
   
-  text-align: center;
   margin-left: 10%;
   margin-right: 10%;
   
   font-family: Arial, sans-serif;
+
+  background-color: grey;
+}
+
+/* Container */
+#container {
+  
 }
 
 /* my name or heading1 */
