@@ -1,6 +1,8 @@
 /* body changes */
 body {
   background-image: url(background_image.jpg");
+  background-size: cover;
+  background-attachment: fixed;
   text-align: center;
   margin: 20px;
   font-family: Arial;
