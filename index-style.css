@@ -36,10 +36,18 @@ h1 {
 
 /* section titles or heading2 */
 h2 {
-  margin-top: 45px;
+  margin-top: 0px;
   color: darkred;
   font-family: Verdana, sans-serif;
   font-style: italic;
+}
+
+/* sections */
+.section {
+  border: 2px blue dashed;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: whitesmoke;
 }
 
 /* image */
