@@ -59,6 +59,14 @@ img {
   background-color: white;
 }
 
+.intro-text {
+  text-align: left;
+}
+
+.clear {
+  clear: both;
+}
+
 /* paragraph */
 p {
   font-size: 18px;
