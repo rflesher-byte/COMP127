@@ -83,5 +83,9 @@ ul {
 
 /* footer */
 .footer {
-  
+  text-align: center;
+  margin-top: 30px;
+  padding: 10px;
+  border: 2px gray solid;
+  background-color: lightgrey;
 }
