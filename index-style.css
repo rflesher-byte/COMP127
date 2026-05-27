@@ -72,10 +72,16 @@ img {
 /* paragraph */
 p {
   font-size: 18px;
+  line-height: 1.5;
 }
 
 /* unordered lists */
 ul {
   display: inline-block;
   text-align: left;
+}
+
+/* footer */
+.footer {
+  
 }
