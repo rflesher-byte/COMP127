@@ -9,7 +9,7 @@ body {
   background-color: grey;
 }
 
-/* Container */
+/* container */
 #container {
   background-color: rgba(255, 255, 255, 0.5);
   padding: 20px;
@@ -18,7 +18,7 @@ body {
   border: 3px solid black;
 }
 
-/* Header */
+/* header */
 .header {
   text-align: center;
   border: 2px purple dashed;
@@ -59,10 +59,12 @@ img {
   background-color: white;
 }
 
+/* intro text next to image */
 .intro-text {
   text-align: left;
 }
 
+/* clear */
 .clear {
   clear: both;
 }
