@@ -89,3 +89,40 @@ ul {
   border: 2px gray solid;
   background-color: lightgrey;
 }
+
+/* php calendar */
+table.calendar {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 480px;
+  font-family: Arial, sans-serif;
+}
+
+table.calendar caption {
+  font-size: 20px;
+  font-weight: bold;
+  color: purple;
+  margin-bottom: 8px;
+}
+
+table.calendar th {
+  background-color: lavender;
+  color: purple;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+table.calendar td {
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+  width: 14%;
+}
+
+table.calendar td.today {
+  background-color: purple;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+}
